@@ -1,5 +1,5 @@
 //Create a module that implements an AND gate.
-module top_module( 
+module and_gate( 
     input a, 
     input b, 
     output out );
